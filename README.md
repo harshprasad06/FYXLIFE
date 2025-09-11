@@ -1,3 +1,11 @@
+
+You can view it here:
+🎥 Screen Recording
+
+https://drive.google.com/file/d/15A6rzyPmMs8leBwUxOZ-RXVM9h0JowJi/view?usp=sharing
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
